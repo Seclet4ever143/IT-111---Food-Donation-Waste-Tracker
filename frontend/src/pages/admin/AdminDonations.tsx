@@ -34,8 +34,8 @@ import {
   Avatar,
   Fade,
   Grow,
-  Grid,
 } from "@mui/material"
+import Grid from "@mui/material/Grid"
 import {
   Visibility as ViewIcon,
   Delete as DeleteIcon,
